@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yohima Shetty
+# Hi 👋, I'm Yohima
 I’m currently working on Full-stack web applications using React, Node.js, YOLOV8 and Docker, along with academic & personal projects.<br>I’m looking to collaborate on open-source projects, web development,and AI/ML based applications.<br>I’m looking for help with advanced AIML, DevOps (CI/CD, Kubernetes), and scalable backend architecture.<br>I’m currently learning devOps tools (Docker, CI/CD), cloud deployment, and advanced JavaScript/React concepts.<br>Ask me about React, Node.js, MongoDB, Docker, GitHub, software testing, and basic AI/ML projects.<br>Fun fact I enjoy debugging complex issues and turning errors into learning opportunities 😄
 
 
